@@ -4,7 +4,7 @@
  * @returns {number}
  */
 function factorial(n) {
-  var result = n;
+  let result = n;
   if (n === 0 || n === 1){
     return 1
   }
