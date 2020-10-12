@@ -33,7 +33,7 @@ function initCarousel() {
 
   // rightBtn.addEventListener(click, () => {
   //   if (currentSlide !== itemsCount) {
-  //     innerBox.style.transform = 'translateX(-' + widthSilde + 'px)';
+  //      Box.style.transform = 'translateX(-' + widthSilde + 'px)';
   //     currentSlide++
   //   }
   //   if (currentSlide !== 1) {
